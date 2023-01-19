@@ -18,4 +18,6 @@ Welcome to exercise 04 - let's build a form.
 
 ## Final
 
+Note: depending on what browser you are using your form elements may look slightly different
+
 ![This is an image of the finished product](/images/finished.png)
